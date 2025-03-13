@@ -1,4 +1,4 @@
-## 🚀 IBM Data Science Certification (Sep 2022 – Jan 2023)  
+## 🚀 IBM Data Science Certification  
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, SQL, Scikit-learn  
 
 ### 🛰️ Falcon 9 Landing Success Prediction  
